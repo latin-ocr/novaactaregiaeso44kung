@@ -1,0 +1,46 @@
+SUR LEs sERIEs DE COEFFICIENTS BINOMIAUX. 57
+
+fonction μ(β) soit bornae seqnsrz'e{crementpom· β > Λ . En effet, si μ (β)<Κ
+pour β >A‚ ΟΠ a
+
+m) 3 ΜΛ ÷ ε, ,1)
+
+pour φ’· Ξ 1 7¹⁴ Κ-Δ Α, ε etant positis mais aussi petit qu'on veut. Dono
+λθ) ΞΛ. Inversement, si 220²) ΞΛ, on a
+
+MA†Q{A÷f†w
+
+pour tout ε > Ο.
+La serie a termes positifs et non oroissants
+
+(λ —— z(1))÷-(2(1)- λ(2))1(λ(2>-(λ(3))616..
+
+etant convergente, on a
+
+w>— 2(2·†1)=“‚—⁷7,
+
+ee qui peut servir de mesure (16 la rapidite avec laquelle 011 S'approehe
+de la ligne {mx} ΞΑ.
+
+14. Fonctions entieres donnees par une serie de coeffi=
+cients binomiaux. Supposons mainfenant A: Ηαῃ alors lise) est
+une fonction entiere. Si λ> -ᾑω, il en sera de meme de tous les
+λ(7’); pour qu'il en soit ainsi, il faut et il suffit que μ(β) > -w pour
+une valeus finie de β. Si λ = fix», la serie eonverge absolument
+dans tout 16 plan: pom· (ffl'mze fonction entiffre. ΙΗῙ) soit (Ze'veloppable en
+une serie (le eoelficz'enls binomium? (ὃ) (seli convergyoe (lans tout Ze plan, il
+saut et il suffit (sue, quelque [fraud (ffl'rm domm le nombre positis M
+
+¹ Μ’(β 1 res‘f‘) [ < θ”ἴίΉΓυ
+
+pom· tout β et pour 7· suffisammewt gyram‘l, mszot‘me'menteu φ.
+
+La fone-tion [1²05] peut evidfflmnent &tre d'ol‘dre infini3 on peut
+p. e. prendre une fonction entiere qui croit comme une puissance de
+:c dans un angle (16 grandem > π auteur de l'axe positis. On voit que
+la condition
+
+ᾖ ΙΗβψνεΗΡ) Q < α’ , α < 2
+
+Nova Acta Reg. Soc. Sc. Ups, Ser. 4, Vol. 4. N. 3. Impr. ¹⁴⁸³& 1915. S
+

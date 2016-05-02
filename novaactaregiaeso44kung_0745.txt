@@ -1,0 +1,58 @@
+REPRIZSENTATION ANALYT. DE LA VITESSE DANS L'HYDRODYNAMIQUE. 43
+
+et enfin une suite de nombres sans dimensions α, , α.2 , . . . telle qu'on ait
+
+1ζαι>α2>...>α,,>... limanzo-
+
+71=00
+
+Considerons en dernier lieu une suite de vitesses positives (10010155ἣο-
+tes U''l ‚ U'ss„ . . .:
+
+U'fl > U''2 > . . . > U''„ > . .. lirn U''„ = 0 .
+
+Ᾱ chaque valeur entiere (le n repondent¹ alors trois polynonies ΡΨ,
+ΡΜ Rs* qui dans le doniaino DQU‘„, oen, Z„7 12¹)satisfontauxine-
+
+ 
+
+ 
+
+ 
+
+gilliies
+ιι —— ΗΜ , 1 ι] - Hy> 1 , 110 — ΗἸ) Ι < (l—-i-Ulri’th -,
+ὃ ιι ὃΡ;,”) ὃ ιιι ὃΗ,”) β U''„
+(ᾗ- 61· 'aa' ὃς <4¹1÷ssfi>j1÷0=11 '
+
+ 
+
+ 
+
+ 
+
+ 
+
+Les series
+
+m
+
+R-¹³†}QP2¹†¹*—P2⁰> 2 R r2OE:†¹>—Hx*) ,
+
+11911 Ξ (12:4¹³ — Pr»
+
+representem ιι, ιι, ιι] dans toute l'e-tendue de D, et leurs derivees
+premieres par rapport ἐι x, ῃ, ⁴3 representem les derivees premieres
+de ιι, v, w. Par 1ἐ1 notre problelne est resolu.
+
+Il reste deux questions qui demandent une reponse. D'abord:
+nous avons vu que nos Series oonvergent ἐι l’interieur de D et y re-
+presentem: 1105 solutions. Peut-il arriver qu'elles oonvergent aussi ἐι
+l'exterieur de D?
+
+La reponse est affirmative. I'our le montrer, il suffira de rap—
+peler que, dans »Formules de Green» I7 j'ai etudie les equ-(dions (111
+mouvement d’un liquide inoompressible indefini dans tous les sens en
+me plaqant dans des hypotheses plus generales que celles faites ioi.
+De fait, notre me'thode d'integration est applioable des qu'on suppose
+

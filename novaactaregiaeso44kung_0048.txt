@@ -1,0 +1,50 @@
+18 C. W. OSEEN7
+
+4. wir wollen die durch die glei0111n³<issige Bewegung einer
+ebenon Scheibe hervorgerufene Bewegung einer reibungslosen Fli'lssig-
+kefit untersuohen. wir beschr‘Anken uns dabei wieder auf den Fan, wo
+die Geseluvindigkssit der Scheibe geg-en dieselbe senkreeht ist. Wir
+miissen zu diesen] Zweclz zuerst die Bewegung einer reibenden Flus-
+sigkeit untel¹ denselben Umsffa'nden in Betraeht ziehen. Wir kehren
+also zu den Gleiohungen (3) zuriiek. wir semen, der K'su‘ze wegen:
+
+ow — Μ) = Χ, affl —— ⁷> = Y, pm - ω) = Z
+
+und erhalten so:
+
+, δυ’ flq' ¹
+μΔῖι *r- ρ’ἰιο *δῖ = — {TE— ss Ᾱ .
+Ι ¹ ‘dv' ἂρ’ ἰ ,
+ΛιιΔυ ᾖ (11ιο ᾖ = — δῖ ’(- I . (S)
+fficA'w' ἦ 9210 Z—(j- = — Ξ-(ζ ³& Z 9
+δυ’ 1 ὅς’ —1- ὄψ’
+
+ 
+
+ὃῑῒῡςῐ· 02 ΞΟ·
+
+Die Nebenbedingungen sind: an der Scheibe (ι’ = 110, v' = w = O.
+im Unendlichen (ι’ = θ’ = ‘w' = Ο .
+
+F sei die Kugel :ff ψ 3st :2 = Β] ‚ wobei wir R so gross w'eih-
+len, dass unsere Scheibe S ganz innerhalb von F liegt. Ω sei der von
+Fund S begrentzte Raumbereioh. ΑΗΕ (S) folgt dann, wenn wir ud. —
+vm = Um (J'f —— Ο,- = Oi setzen¹t
+
+ 
+
+sylvffisfflnX ψ U12Y ÷ UffiZ) du, -
+'Q
+
+²⁶'(·'1*0 ‚ yo ‚ ΞΟ) =
+
+O'IIO
+
+43 Ull eos nxdf —
+
+— ᾗ ssUllu' ἦ U122'' -θ- U1320') cos ozhzrclf —
+‘F
+
+¹ Man vergleiche hierzu moine Abhandlung: Uber die stokes'sche Formel und fiber
+eine verwandte Aufgabe iu der Hydrodynamik 1, ΑΓΒ. f. mat.‚ asir. o. fys. Bd 6. 1910.
+

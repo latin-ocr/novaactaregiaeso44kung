@@ -1,0 +1,62 @@
+36 C. W. OSEEN,
+
+nombre N peut estre ohoisi de mansere ἐι ee qu'il soit independant de
+τη, t' et λ.
+
+Certe proposilion est une consequence immediate de la rernarque
+par laquelle nous avons termine le ξ 4. Il suffit de prendre N assez
+grand pour que
+
+ 
+
+g1} 7 ἱ nas ψ ἰῇ 72F[a1 (Q ΔΓ ᾗ) ÷ ‹104 aff} . a1(a.,‚ ÷ ξ) well} < ὲ .
+
+Pour trouver maintenant une expression analytique de u, v, w'
+
+V
+au point λ, t', nous eommenqons par calculer u, v, ‘M‘ pour t= ίῇο
+
+en appliquant le ξ 4. Je pose
+
+ul. = ulq vl· =z·1„ ὐ = erl ‚
+
+l,
+Α· ,V Ῑ
+
+u, ‚ v, , [ιη ont la forme de series entieres procedant suivant les puis-
+sanoes de λε
+
+ul = Σ λ”ηιίηῇ , rl = Z'ae‘wsnlf) . ην] = Effwffll) .
+1 1 '‘ 1 -
+
+Ι
+
+Je pose maintenant 150 = N dans le systeme Ι. et, en employant de nou-
+
+9 V
+veau la methode du ξ 4, je oaloule η, Γ, u* pour t= ff. ‹Poe-ris
+
+ἰω = ω . 2⁷211 = v„
+
+. 7 ²172st = '202 ·
+
+i? X
+
+“22 232, ιν.) ont la forme de Series deux fois infinies, procedant suivant
+les puissanees entieres et positives de λ. Nous avons en d’autres
+termes
+
+u2 = Σ
+
+-
+71¹=l n l
+
+v Z''·†'¹²u(nl , 7²2) ἦ ete.
+,ει
+
+ΕΠ continuant de la meme maniere, nous trouv-ons finale-ment
+
+,η 2, ω 2,
+’ΜΝ = ηψπ , ys , Ξ , ι’) = Σ Σ . . . Σ Σ z''·*''²*‘·‘†'¹-vu(n,‚ πῇ, . . . , ny) ,
+nx =1 'IX-1 =0 '¹²²0 ἰι =0
+

@@ -1,0 +1,40 @@
+REPRFJSENTATION ANALYT. DE LA VITESSE DANS L’HYDRODYNAMIQUE. 53
+
+ 
+
+ 
+
+ 
+
+Je pose ει = — uo ψ η’, v = θ’, w = Μ’, p = ρ’. Nous obtenons
+alors
+-ριιοὲ”ι’ὶ’-ικρ(ιι’ἓ”ῐ’-μ·’Ξέ’-ι-ιι’ὃ’ζ’); ρλΧ()ι-, ῃ, z—) θ’ ιιᾍψιιιΛῖι
+
+ 
+
+ 
+
+Pour simplifier les &el‘itul²es‚ je laisserai de cote} les accents. Je pose
+ensuite
+
+Le systiffme <1'42quations que nous obtenons de cette mambre, peut
+s'e'wrire
+
+ὃιι 13Q=—·)
+
+ 
+
+Διι-ι-ἓσὸῂῑ- [ιδ-ι ,γλΧψὲγζιιῑῖ-υἷιτ),
+Ao ὃιν loq ) γ ⁴) VS— ἡ
+Ἳι2σὸἶχ- αὸᾙ- ῄ-,γλῙ-ι-Αγΰιω wlf),
+Δ. 9 3²0 13⁶1 o ⁶> πῖ ἶ
+ιιψεσόῑι-ιῇὃῖε--γλΖἾιέγίυῑι-ῖιικ),
+ὃῑι-ιό-ὐιόιυ--Οι
+ὃῃ ὃ
+
+Comme je l'ai montre' auparavant, on peut transformer oe systbme
+d't'equations en un systbme d'essquations inte'tgrales. Considelons dans
+le liquide une surface fernffie quelconque S: soient Ω la partie de
+l’espace intc'aerieuoe ἐῑ S, et ρι’, ss„ ,ε un point situ& dans Ως nous pou-
+vons alors &crire les unations suivantes:
+

@@ -1,0 +1,58 @@
+ω,
+
+SUR LE& SERIES DE COEFFHQENTS BIYOMIAUX.
+
+ε). La methode des valeurs moyennes ou de Cesaro.
+L’applieation de cette me'thode aux sbl‘ies Wffl repose sur le the'ml‘bme
+suivant ¹.
+
+Soit Sy„ une se'rie sommable d‘ordre ν et
+0
+
+(⁴0, ccl, (42.‚...(a„‚...
+
+une suite infinie de nombres assujettis aux conditions que
+
+1Ο lim cc„ = Ο ;
+
+⁷1=00
+
+20 la se'l‘ie Σ η’· ἶ Δι’ῑΓαΗ ¹ eonverge .
+(J
+
+Alors la δέη-ἰθΣαηγη est sommable d’ordre γ’ et sa somme est &gale ἐι
+
+0
+
+la ερΓἰθ absolument convergente
+
+z . , 1. ,x
+EffffCT½w÷(}‡w†wffsszvmfww
+
+ω
+En pren-ant
+
+(41
+
+7„ Ῑῖ ‹ ‘c—0 l)(.z'0 — 2) . . . (εσυ - η) ,
+
+‹1—1}‹1·2.--» ‹xv—n)
+(20 w-lm( -2JZ-(1'0—22J’
+
+ 
+
+Q:
+
+ΟΠ aura
+
+» ([13- l)(}1'—2)...(ass— η)
+'r' }.z·„— IMJJO—Zj . . . (ςιόᾈη —r —- 1) ‘
+
+ 
+
+Ama„ = (ρευᾈηῄῑυ —,‘1.·-— l) . . . (susas—2
+
+Si ffi(x) > θῖίςιῑθ) , les conditions 10 et 2Ο sont satisfaites et nous avons
+
+¹ Voir Bofflz, Bz'dray etc.⁷ p. 61. lei Aa„ z ‹cn—anfi .
+

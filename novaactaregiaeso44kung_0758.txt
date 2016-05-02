@@ -1,0 +1,48 @@
+56 C. W. ΟΞΕΕΝ,
+
+si α ct α’ sont deux nombres positifs sans dimensions qui satisfont aux
+inegalites
+
+0<a<{ Ο<α’<ὲ
+
+8⁷ 8⁹
+
+nous pouvons toujours trouver un nombre positis M suffisamment grand
+pour qu⁷on aih pour toutes les valeurs de x, y, z ‚
+
+ 
+
+ 
+
+'²³⁷¹23Y'22²<M{(1÷-ss11÷)2—aV1³2⁶2÷41÷s21ffi2÷a11¹s⁰m<³÷²½
+
+La solution que nous cherchons doit satisfaire ἐι Ia condition
+
+limu=limv=1imw=0.
+
+R=00 R=u= R=1
+
+Je veux assujetir ma solution a la condition notablement plus precise
+qu’on lui impose en exigeant que u, r, eo, q Satisfassent ἐι des ine-
+galites de la forme
+
+ 
+
+ 
+
+ 
+
+iai mma-11< ΕΜ,
+Qi iffi issff<j βω
+armins ”ow (1÷ssR)¹-⁶‘⁷
+mi ‘2
+
+Prcnons maintenant pour surface S une sphcre dont le centre
+est au point ινυ, y, Ξ. Faisons tendre son rayon vers l’infini. Je dis
+que si les inegalites ci-dessus out lieu‚ tontes les integrales de surface
+dans nos formules tendront vers Ο, et tontes les integrales de volume
+vers des limites finies determinees. Pour demontrer cette assertion⁷
+il est toutefois necessaire d'examiner d’abord comment les fonctions
+ud. et leurs derivees se comportent lorsque le point ξ, η, ζ s’eloigne
+indefiniment. <Ie vais donc maintenant m'occuper des fonctions nst..
+

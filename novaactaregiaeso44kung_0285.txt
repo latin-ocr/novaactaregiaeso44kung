@@ -1,0 +1,36 @@
+r l. In the »Astron Naehrichten» N:o 4801 Ι have remarked
+that the distanoes of the stare of the spectral type Β ma)v be deduc-em
+for each individual star. from the value of their apparent magnitude. as
+soon as the value ot a certain parameter — R — has been determined
+from the radial velocities of the stare combined with their known pro-
+per motione in right aseension and declination. Ipropose to carry
+out here this determination.
+
+2 Let m. be the apparent magnitude of a star and o· its di-
+stance from the observer„ then we have between γ and m the relation
+
+(ι) ›— = eid-2112
+
+where R denotes the distance (ct which tlte star in question should have
+cm [ιρρανεηί magmz'tucle equal z‘o 0¹¹¹.‹·.
+
+The relation (1) may, in theoreticc‘cl researohes, more conveniently
+be written in the form
+
+(1²³) Γ = Rem ,
+
+where
+
+b Ξ O.2 “log lo = O.460517 .
+
+As to the parameter R it is a constant for eaehstar, but varies
+from one star to another according to the temperature and the diame-
+ters of the stars. Let ρ be the semi-diameter and T the temperature
+of a star. then we have
+
+,R Ξ ε’ίιιΤ),
+
+where f1(T) denotes a certain function of the temperature. Hence R
+is proportional to the diameter ot' the stars.
+Nova Acta Reg. Soc. Sc. Ups.. Ser 4, Vol. 4, N> T. Impr. ² a 1916. 1
+

@@ -1,0 +1,48 @@
+ΖΗΕ THEORIE DEs FLt'ssmKm'ssWIDERSTANDES. ll
+
+Funktion F entweder durch ein Sommerfeldsohes Integral (μυ-5161161]
+oder F nach Ringfunktionen entwickeln. Man bestatigt 1eicl1t„ <lass A in
+diesem Faue auf der Scheibe Uberall endlich ist und an] Raude vet·-
+sohwindet.
+
+Als Ergebnis del* obigen Betraehtungen konnen wir den [δ’-ΜΖ
+aufstellen, dass die Funktionen φ, ψ, χ, wenn μ1 gegon Null konver-
+giert„ Uberall im Inneren der Scheibe gegen bestimmte„ beliebig oft
+differenzierbare Funktionen von !lf und {fkonvergieren Auf die Frage,
+wie sich diese Funktionen am Raude vem-alten, braun-hen wir hier
+nieht einzugehen.
+
+wir kehren zum System (5) Zuri'lok. wir wollon den Greanber-
+
+gang ¹u = ’τ O ausfiihren. wir erhalten zunkichst im ganzen Raume:
+lim (s = — οι(Ο ὅθι] “C-4>— .“” Ξ ῖς), clf = (ω.) {L} .
+ΗΖΛ] . ²
+
+Durcll Jeden Punkt der Randkurve unserer Scheibe ziehen xvir
+eine mit der negativen :c-Aehse pal‘allele Ger—ade. wir erhalfen, wenn
+der Punkt gc. Π, ε ausserhalb des so erhaltenen Zylinders liegt:
+
+lim η’ Ξ 3¹]‹ sto) κω) Ξ θῦμ’), df = &5²74 ,
+
+μευ
+
+lim 22¹
+
+μΣΟ
+
+&A . f &A
+
+'Wenn (lagegen gc, gs. ε innerhalb des Zylinders liegs, so be-
+kommen wir:
+
+lim (ι’ Ξ -1πφω11ῃ, 2 ÷ {3⁷⁴4 7 lim s‘ = {ng , lim 'w' = ΘΑ .
+uzo * ’ ’ ,ιἸ μς] gl sstzo ὂψ
+wir bemerkem dass:
+lim lim ¹u' = lim lim (ι’ Ξ 1ιο ‚
+.1-=÷0 μεθ ,πε-ο μΞο
+lim lim v' = lim lim ω’ Ξ Ο
+ψ-ερο μκο ,κε-ο μεο
+aber nicht: lim lim θ’ Ξ Ο, lim lim ω’ Ξ Ο .
+
+.r=÷0 μευ 1=÷0 ,1220
+

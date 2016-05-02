@@ -1,0 +1,45 @@
+22 (¹. V. L. (1111111111311,
+
+The number of stars in these different divisions are seen from
+the table
+
+Table 2. Number of stars.
+
+m Bo Bi B2 Bs Be> Σ
+ξ 4.99 14 18 24 55 42 153
+
+500 — ,599 ‘33 8 16 102 62 211
+Ξ 5.99 37 26 40 157 104 364
+
+When calculating 1116 values of R it is advisable 10 write. ‘the
+normal equations in a form differing from that used in the preceding
+investigation. The large numbevs arrived ai in those eomputations
+are indeed avoided if the eoeffieiente in the nol-mal equations are di-
+vided by the numbelz N, (11 observes} stass. We attain moreover in
+this manner the advantage 10 get equations nearly of the same form,
+as fai· as the eoeffieients 01 the unknown quantities are concerned.
+
+Ι give here the normal equafions obtained for the different sub-
+classes from all Stare fainter than the δώ magnitude. The right mem-
+bei‘s are here expl‘essed in radians (ρ) per stellai· year.
+
+Subelass Β o (Ν = 37>
+ἦ» [lsai-2 ,ιτ ἠγ 051525 gs — O.14s4 Δε· = ἢ* (1(’.1572
+ἡ a 0,(15251ψὲ 048117 y > - 0.]420 Ξ = -1- Ο 7155·
+ἡ 0148511· 4* 0142113] ’τ 065111 z = μ 0.ι195ο
+
+where
+a: UQR: με V'':R: ΞΣ W''=R·
+
+Subclass Β 1 (Ν = 26).
+
+1· 08112111τῖ Omma ζ] — ostem} ,ε’ = — Offom ,
+j 0.](168 x ÷ O.47.36 ss - 00962 Ξ = a* 0297& ,
+ἡ One—<3 ἵ *- 0.0962 y 41* 06374 Ξ = - O.1:39.'1 ,
+
+Subolem Β 2 (Ν = 40),
+1 051111 ‚eim [hoeiessff 0111213 = Τ &Coum ,
+(mem ,ι’ ‘t 0,.5294 gs *⁴³2 011211 ,Ξ = — 052245 ,
+
+W O.1921 a: ’1 0,(1211 !] 1 071145 ,ζ = j 0,2902 ,
+

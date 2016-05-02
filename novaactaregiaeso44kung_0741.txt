@@ -1,0 +1,53 @@
+REPRssSENTATION ANALYT. DE LA VITESSE DANS L'HYDRODYNAMIQUE. 39
+
+D'apres ee que nous avons suppose, nos series majorantes relatives a
+ul, vl, πῃ eonve'rgent meme quand nous y prenons λεί, t'= T,
+
+t= V} . Le fait en question suit de 12¹1.
+
+Le deuxieme fait consiste en ce qui suit. Nous pouvons tou-
+jours prendre U''' suffisamment petit pour que les inegalites (17) de-
+viennent une Consequenee des inegalites (18). Cela resulte des ine-
+galites (13). Dans l’application que nous ἴθι-0115 de celles-ei au cas
+actuel, nous pOSeI‘OnS
+
+F¹¹> = Ο , 1211U8>= U''' ,
+ᾶόίι il suit
+V‘1’ = Uff'aq ,
+
+ainsi que
+ilum = u —— [ιω ‚ iqzffl = z* — vm , llwfl' = w — ΜΗ) .
+
+Nous voyons alors que dans Dm„ α, l, T) οι] a
+
+{zasgzss‘fKnsw a, ι, Τ)
+
+ 
+
+ 
+
+ 
+
+{u—u‘UQ, jv—v‘¹'³, {ve—ww} <
+
+ 
+
+ 
+
+(17Lssffl‘2 ⁹
+[ὂιι 626⁰] 'dzc &erm ZagssU'ffKffdU, α, ἰ, Τ)
+Ιεῖῐ-ὃ.ι·ι’···’;θ; ὃς <”” 41÷ssffl14a
+
+sl
+4K(U‚ α, ἰ, Τ)ΚΟ(Π, (s... l, Τ)βα8ἴ]”’<ὲ ·
+Pour faire en sorte que les inegalites (17) aient lieu, il suffit de pren-
+
+dre U''' ἐι la fois suffisamment petit pour que cette derniere inegalitc'·
+soit remplie et suffisamment petit pour qu’on ait
+
+2a3U'''K0< ,ξ’ U'' .
+Je vais nmintenant supposer que U'' < U— U'. Alors il resulte
+
+des inegalites (17) que si λ, t est un point quelconque appartenant ἐὶ
+D(U'‚ α, l, T), on a
+

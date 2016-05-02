@@ -1,0 +1,39 @@
+07!
+[Q
+
+C. W. 05111111,
+
+Deuxieme Section.
+
+Dans cette 56611011, 110115 allone traitei· le probleme suivant. Un
+liquide visqueux incompressible‚ indefini dans 10115 165 56115, 651 50111-
+cite par une force (10111 165 6011111051111165 50111 ρλΧ (αι’-1101, y, ε),
+ρ λ Y (sit — ’1ιο t , y , ε) , ρ λ Ζ(.1τ - uo 1, ys , Ξ) . Le probleme du mouve-
+1116111 a alors une solution dans laquelle u, v, w ne dependent (165 6001*-
+(101111665 61 (111 temps que pffl‘ l'intermediaire (16 ,1-1101, y, Ξ. Quel-
+165 propriefes 0111 u. v, w, consideres comme fonctions de λ 61 uo?
+Et comment peut-on representer 665 fonctions?
+
+En eludiant 665 questions„ 110115 cousideremns aussi (165 valeurs
+(fomplexes de 110. 06116 elude fera toutefois 1-65501111· qu'il 651 116665-
+seire (16 distinguer 1161161116111 165 cas 011 la partie reelle de 140 est po-
+sitive de ceux ou elle 651 negative. Ᾱ moins que je 116 (1156 explici-
+161116111 16 contraire, j'admettl·ai dans 66 qui suit que la pai-tie reelle
+(16 110 651 positive.
+
+1. Si 165 equations du mouvement (1’1111 liquide sont rapportees
+ἐι 1111 5)*5161116 (l’axes eooi‘donnes qui 56 1116111 pat-allelement ἡ l'axe (165
+s aveo une vitesse uo, 61 51 110115 16150115 l'hypothese que u, 11, w
+50111 independents de c dans 66 5515161116, 665 equations pl‘ennent la
+forme
+
+p(z(Q÷cffffl4zsl÷fig)=pi„„l⁷l'.z·‚ y, Ξὶ-ἒξ-ἒ-μίίῑι ,
+691 61] 66 s
+Q(7I?÷Y÷l7g{†lcss):QZZ(OE³ y, :J—fl-{ffluauffi
+
+QJ‘ssQ-4-Q3=0
+
+6} ⁵ &sl ’ 6:
+
+Les conditions aux 111111165 sont: ἐι 1’11111111 011 a 2c=— 1ιο, v: w = Ο.
+

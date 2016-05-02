@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso44kung_0679.png"; bbox 0 0 2205 3049; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 72 177 2100 219">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 72 177 2100 219">
+     <span class='ocr_line' id='line_1_1' title="bbox 72 177 2100 219; baseline 0.002 -8"><span class='ocrx_word' id='word_1_1' title='bbox 72 180 164 211; x_wconf 75' lang='lat' dir='ltr'>Nova</span> <span class='ocrx_word' id='word_1_2' title='bbox 191 178 270 210; x_wconf 77' lang='lat' dir='ltr'>Acta</span> <span class='ocrx_word' id='word_1_3' title='bbox 298 178 376 219; x_wconf 72' lang='lat' dir='ltr'>Reg.</span> <span class='ocrx_word' id='word_1_4' title='bbox 404 178 474 209; x_wconf 78' lang='lat' dir='ltr'>Soc.</span> <span class='ocrx_word' id='word_1_5' title='bbox 503 177 551 209; x_wconf 75' lang='lat' dir='ltr'>Sc.</span> <span class='ocrx_word' id='word_1_6' title='bbox 580 178 658 218; x_wconf 79' lang='lat' dir='ltr'>Ups.</span> <span class='ocrx_word' id='word_1_7' title='bbox 687 179 745 210; x_wconf 75' lang='lat' dir='ltr'>Ser</span> <span class='ocrx_word' id='word_1_8' title='bbox 785 179 837 210; x_wconf 69' lang='lat' dir='ltr'>LV,</span> <span class='ocrx_word' id='word_1_9' title='bbox 867 179 944 210; x_wconf 84' lang='lat' dir='ltr'><strong>Vol.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 970 178 1024 209; x_wconf 81' lang='lat' dir='ltr'>IV.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1048 180 1086 212; x_wconf 74' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1106 181 1136 211; x_wconf 74' lang='lat'>8.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1938 185 2013 215; x_wconf 81' lang='lat' dir='ltr'>Taf.</span> <span class='ocrx_word' id='word_1_14' title='bbox 2041 185 2100 215; x_wconf 83' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 64 268 2153 2830">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 64 268 2153 2830">
+     <span class='ocr_line' id='line_1_2' title="bbox 64 268 2153 2830; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 64 268 2153 2830; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1592 2877 2082 2899">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1592 2877 2082 2899">
+     <span class='ocr_line' id='line_1_3' title="bbox 1592 2877 2082 2899; baseline 0.006 -6"><span class='ocrx_word' id='word_1_16' title='bbox 1592 2877 1647 2895; x_wconf 26' lang='lat' dir='ltr'>[melr</span> <span class='ocrx_word' id='word_1_17' title='bbox 1673 2878 1680 2892; x_wconf 65' lang='grc' dir='ltr'><strong>Χ</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1703 2878 1714 2893; x_wconf 77' lang='grc' dir='ltr'>Η</span> <span class='ocrx_word' id='word_1_19' title='bbox 1734 2878 1813 2897; x_wconf 46' lang='lat' dir='ltr'>knyt-Mn</span> <span class='ocrx_word' id='word_1_20' title='bbox 1837 2878 1851 2893; x_wconf 54' lang='lat' dir='ltr'>K</span> <span class='ocrx_word' id='word_1_21' title='bbox 1869 2879 1965 2899; x_wconf 51' lang='lat' dir='ltr'>&amp;Ksslphst</span> <span class='ocrx_word' id='word_1_22' title='bbox 1980 2879 2082 2896; x_wconf 49' lang='lat' dir='ltr'>Shusswxlm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

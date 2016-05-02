@@ -1,0 +1,34 @@
+l. The problem of wave-motion in a ssuid of variable density
+was attacked in 1883 by LORD RAYLE1‹T†H¹„ with a view to studying the
+stability conditions which, according to HELMHOLTZ'S suggestion, govern
+the formation of cirrus clouds. Lord RAYLEIGH considers two otherwise
+unlimited tluids of different densities, separated by a horizonta] stratum
+whose density, according to a special law of transition„ gradually
+changes from one value to thev other. From a more general point of
+view. the theory of waves in heterogeneous liquids has been dealt with
+by BURNS1DE2 and Low-³.
+
+Lord RAYLEIGH's problem ma)v be described as dealing with the
+propagation os waves on a diffused boumlary, and is one which, freed
+from restrictions as to special laws of dcnsity-variaticn etc„ is of like
+importance to hydrography and meteorology. The following note gives
+a general result which is quantitatively interpreted with the practically
+well—founded restriction that the waves considered have a small wave—
+length compared with the thickness of the layer os density transition.
+The result is presented in the forn] ol' a correction to be applied to
+Stokes' well-known formula for the velocit)v of propagation oi waves
+on a non-diffused boundary.
+
+We may discuss also a moro general problem, including the
+above as a special case. by considering two uniform liquids animated
+by different horizontal velociticsz Friction and diffusion combined will
+cause the ssuids to mix with each other at the surfacc of separation,
+and a layer is soon formed in which there is a gradual transition of
+
+’¹ »Investigation os the Chai-aeter os the Equilibrium os an inemnpressible Heavy Fluid
+of Variable Density». Proc. Loml. Matlz. Sor. t. XlV ‹1883).
+² Proe. Lonrl. Mam. Sne. t. XX (1889).
+³ Prae. Laud. Matho Soc. t. xxn (1891). For special recourse to the related pro-
+blem in the theory os »'l'emperatm·e Seiches», see also WEDDERBURN, Errsnhuryh Transwlfiie).
+Nova Acta Reg. Soc Sc. Upe.. Ser. 4, Vol. ²7 N. 2. Impr. ³¹ a 1915. l
+

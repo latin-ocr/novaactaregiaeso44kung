@@ -1,0 +1,51 @@
+20 C. W. Osssm',
+
+leitungon 616161· Ol‘dnung nach fr, ys ‚ Ξ gegen bestimmte, endliche odet·
+integrabel 1111611(1116116 (31611Ζ1ν6116 konvergieren und dass dasselbe von
+Χ, Y, Z gilt. Dies ist keineswegs selbstverstzimllioh, aber dieselbe ι
+Α11116111116 liegt (1611 ΤΙ16Ο1·1611 von GREEN-DIRIOHLET und HELMHOLTZ-
+KIRCHHOFF zu Grunde. Die Grenzwel‘te (161 111 1111361611 1161111611] 1101-
+kommenden Flkichenintegrale haben wil· sehon im Ζ11’611611 Pamgraphen
+
+116166111161. wir erhalten, wem] (161· Ρ1111κ1 (10, glo, 301111161111111) von
+R' 1 R„ negt:
+
+ 
+
+u'(.1¹0‚ UO, 30) = Ξ 1 111101 831OE (UuX 1 U12Y 1 U13Z)clw ,
+&A , 1 , ⁷
+
+υ’(.1·0, UO„ 30) = ᾗ 1 111110 8-Πῖ (ΠἯᾹ 1 U22Y 1 U23Zjdw , (S)
+&A ‚ l , , ,
+
+’Μ’(έῖοο ἨΟ , 30) = 330 1 ¹2¹2> fflfflussUfflA 1 0321 1 U33Z)dw ,
+
+1161111 (lagegen (4¹0, 310, 20 innerhalb von ΕΛ liegt:
+
+&A
+
+π’(λΐο, glo, ΞΟ) = 471‹p1‘⁰'(y0‚ ΞΟ) 1 ὃ-,ΕΟ 1
+
+1 lim 111 [(171μῖ 1 U12Y 1 U13Z)dw ,
+
+stt=0 δπμ
+
+&A 1⁶
+
+2²⁷(4110‚ ΨΟ, ΞΟ) = W 1 {lig} {a (UmX 1 U22Y 1 ΠῃΖΜω , (9)
+⁷ &A , 1 ” , , Ι
+11ῑ’(.1”ῡ, ’.710 q ξω) = 3—30 1 1111101 ffffi) (UffiA 1 Um] 1 U33Z)clw ,
+
+Die Diskontinuitzit bein] Passim-en der Grenze zwischen R' 1 ΒΓ
+und Β), 11111 1116111 1116111 nur in (16111 Gliede 4J1q=1<⁰)(yo , 30) , sondern auch
+
+111 (16111 Verhalten (161 Funktionen lim ἱ( Um- hervor.
+,ΝΞΟ 1
+
+Die (ilciohungen (8) lassen 31611, wie aus 2¹ ersiohtlich ist‚ durch
+(116 Annahme:
+
+&P ,, &P &P
+
+²⁴¹(J3ov ‘llo a ³0) Ξ ἦ) τ s (so ⁴ 90 v ΞΟ) = ᾖ ’τ w'ffl‘O, {lov ΞΟ) = ὃᾈέο ’
+

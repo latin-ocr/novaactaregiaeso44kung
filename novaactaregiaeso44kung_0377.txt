@@ -1,0 +1,47 @@
+STUDOES IN STELLAR STATISTICS. III. 93
+
+The column under the heading of 71⁰ gives the absolute paral-
+lax of the star (and ite mean error) according to Kapteyn and based
+on the authority named in the next column. The last column gives
+the parallax of the star according to table 16 above.
+
+Taking into account the mean errore· in the observed parallaxes
+the agreement with the computed parallaxes is good and may serve
+as a support of the valucs of R used in our investigatione.
+
+24. Velocius of the B-stmzs. For those stare„ for which the pro-
+per motions and the radi-al velocity are known, the velocity compo-
+nents may be calculated. Let u and υ denote the proper motione in
+α (multiplied by cos ὃ) and ὃ then we compute the reduced proper
+motione with the help of the formulae
+
+u‘=1o0·2¹¹¹a , ω’ = 11¹¹=⁰22=
+and the linear velocities perpendicular to the line of sight through
+U=Ra', V=R0'.
+
+η,
+
+The three componente U'‘, V and WW in the equatorialsystem
+of coordinates are now obtained from the formulae
+
+Um z γη U‘l- 712 Vss 2‘13 'V ³
+Vm Ξ ”21 U -1- 2'22 V *tf 723 ΠΥ v
+'W‘' = yffi U ÷ V ÷ 2 W .
+
+and the three componente —— UO, VO, ΨΟ — in the galactic system
+
+from
+V0 Ξ eu U'' Q e21V'' ’ὲ <²31 11⁷¹* .
+
+VO τ’ θη Um ς’ 322 Vm ’t‘ 932· HVJ! -
+VO Ξ 6113ΠΗ ’1- 623 VH Ὗ esssslV'! ·
+
+I have given in table 1 a catalogue of 156 stars with known
+radial velocity and proper motione. All stare being brighter than the
+5⁸³ magnitude. For these starel 1 have computed the componente of
+the velocity in the galactic system through the formulae given above.
+The values of UO, VO and W0 are given in the following table
+
+¹ Three stars in table 1 have been excluded because they do not belong to the
+subclasses here discussed.
+

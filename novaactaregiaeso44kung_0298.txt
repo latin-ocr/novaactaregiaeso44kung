@@ -1,0 +1,46 @@
+14 (Ἰ. Υ. L. (YHARLIER,
+
+Ι have had occasion many times in my studies on stellar statis-
+tics to lay stress upon the difference between the mean value of a
+quantity x and the inverse value of the mean value of lxx. Especi-
+ally there is a great difference between
+
+M({-.)
+
+and lelt·l‚ where r denotes the distance of a star of, say, a cer· ⁴
+
+tain apparent magnitude. (Compare Meddel. N:o 68).
+The necessary condition for using the equation
+
+ΜΕ) 2 1 :Mlti
+
+is that the frequency distribution ol' the ¹r-values does not contain such
+values of xx„ which are small, that moreover this frequency distribution
+is nearly normal of type A, and that the dispersion is small.
+
+These conditions are, evidently, nearly fulfilled for the values
+of R, at least as far as the stars ol' type B are concerned. Hence
+we are here entitled to put
+
+M(I¹—3)--1:]l[4113›=1:l12.‚ .
+
+Inverting (14) we thus get¹
+(15) R„ Ξ 4.762 Sil-iometers
+
+h. e a star of type B placed at a distance of 4762 Siriometers appears
+to an observer on the earth as a star ol' the apparent magnitude zero.
+
+The equation (2) gives for the absolute maym'tude (M) l: the
+apparent magnitude at a distance of one Siriometer} of a star of spec-
+tral type B the value
+
+‹15²⁸› M = - :ruff
+
+somewhat brighter than was concluded in the more summ-ary discus—
+sion of Meddel. N:o 68.
+
+ 
+
+¹ ln the following Ι omit lhe index O to quantities deduced with the aid of the
+melllod of least squares.
+

@@ -1,0 +1,44 @@
+98 C. V. L. CHARLIER‚
+
+These values give the mean veloeity of the B-stars‚ considering
+the sun as being at ress, 01· — with the signs reversed — the velo—
+eity of the sun relatively to ‘che stars.
+
+Next the relat1ve moments about the origin were eomputed and
+duly eheeked. I got the values
+
+¹''11‘†’ lssm ‚ '¹¹22 ÷ (isos
+¹‘'12 — 7259 ‚ ι”23 - 2273
+
+¹''12 -l- 3.923 , ¹''a3 -ἰ- 3.222
+
+where at least one decimalplace too mueh is written down.
+Next the momente 123,- about the mean are calculated. We get
+
+1'11 -ὒ- 4.140 , 1‘22 -l- 3.3‹÷3
+''x-2 ἡ Ο.661 , ι’23 - 0.033
+ι’13 — (13⁶8 , ¹¹33 -4- l,7e5 .
+As a eheck we use the formula
+Ev'fj = Σινὶ,ι ψ (ml ἥ- ⁹²22 ψ wz3)2
+
+where in the sums τ’] take the values 11, 12, 13, 21, ete.
+From vij we get the dispersione
+
+σ1 = νῇ = 2.035 ἶ O.117
+
+σ2 = VJ} = l.834 ἶ 0.105
+
+ 
+
+(53 = νῇ = l.329 -g Ome .
+Furthermore we get for the eoeffieients of eorrelation the values
+7⁴23 = - (10156 -ss- omos
+νδ] == - Ο.ι360 -ss- 0.0801
+7⁰12 = - O.1771 [l] stowe .
+
+As a eheek we may use the formula
+
+ 
+
+σι (72 03 VV-222'312'12 = V1‘2s ²‘³l,¹'1·2 ·
+

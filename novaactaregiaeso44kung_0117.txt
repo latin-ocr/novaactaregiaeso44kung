@@ -1,0 +1,52 @@
+SUR LES SJZRIES DE COEFFICIEN'PS BINOMIAUX. 45
+
+{Nx} < ¹!2. Si λ < ÷ 00 , la fonction ηπ) est fflguliiere dans ffi(;‘15)'<¹s2
+et &ordre fini2 inversement, si Hs) jouit de ces I-‘l'OI'l'ffifflSa on en
+oonclut λ < † w. Dono
+
+Pom· qu'wze fonction Πᾛϊ) , re'ssulc'me pom· ffiſtrss) Ξ β, [misse atre
+represente‘e par une se'rz'e (Ze coelficieozts binomicmx (mec l’ccbscisse de (Jon-
+verqence < 4-oe Η faut et z‘l suffit 10 (sue [(’.ω = §Wolff-'¹ 510thlaolomorphae
+pour {RQ} 2< ¹s'2 et (ἴω-(ἶνα fani sm* la fronlfflre (le (re dommine, 2¹¹ (μισ
+W'ssv) soit ἰα plus petite sonetc'mz premant les valeam Wffl) .
+
+Supposons que ΛΨ) soit holomorphe pour ὓίμτ) < ¹l2 et d'ordre
+fini sur la frontssere de ce dom-aine. Conside'aerons l’infflgrale
+
+ 
+
+mv> = ὲ mo),
+
+277ίς
+
+Le oontour S est compos& des vecteurs (w = Rem)
+
+=†0(‚ , ΗΟΞΗΞῪ) (
+
+ιε, :1
+
+re'mnis par l'are de circonscrenoe R = Is„ „ —60 Σ( θ ξ, θυ. Il est par-
+
+eonru en tel sens que l'origine w = Ο se trouve ἐι gauohe. (fe oontour
+peut &tre (Ῑρἰιίῃές On trouve ainsi en premant 00 Ξ π
+
+W1 (Η) = an pour u > I) —- a ,
+
+si sslf) vffl‘ifie l'ine‘aegalit& (51). et
+w,
+
+{Wlssffiss rem} < φωνεῖ ooffit. m> ω ,
+
+en premant pour S la droit& ᾒίμω) -- lfa. En appliquant iz la fonction
+4·1(1-V<x)— W1(:1;)) le tlffiorknne p. 33, 011 aura dono
+
+mr) Ξ Wl (s) ,
+
+. 1 “, dm
+(52) πω = le ww ·
+Ν
+Pom· (stt'mw fonslion ms) pas->¹30 (fise (leftscloppcie wc [mc serie dc
+coesficients binomma‘z· ccc-ec l'abscz'sfse <Ze consmsszyence < ῃ il scant el {Z suffic
+qu'elle puisse se metire son-s lna forme (52), sm) [tamt φ’(ῑφιῖὶὼί) pom·
+ῧίμω) < ¹l2 et ‹Z’ordre fim] sm· ἰιι frontive (le ce (ἰωηαιῖηυ.
+

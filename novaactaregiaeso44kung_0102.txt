@@ -1,0 +1,39 @@
+Chapstre H.
+
+6. Sur l’ordre de M. Hadamard d’une sdrie de Taylor.
+Nous passons maintenant au probl'eme de convergenee des sbries ΨΜ .
+La solution que nous allons en donner va reposer sur quelques 11]ῥο-
+r'emes auxiliaires: nous les prsssenterons d'abord.
+
+Posons
+
+fflQ=Q÷ffiffiwffss.u20w÷m‚
+
+ef (ffisignons par Ω l'ol'dre de M. Hadmnard de la fonction
+
+FU)
+
+W* Ξ ῑῖῑτ
+sur le cerole de convergence tl = 1¹. Si la seffie el — (ξ ÷ Ca m . . .
+converge, 01] doit choisir (Ὀ = (ἰ ᾉ (²2 ⁴1³- 03 j . . . , ρ’θδῒ-ὲ-(ἣνθ F(—1) = Ο .
+
+Cela ῥῒῆῐιΐ, Γαϋὸσίδεθ (le conceryence <Ze Za serie (5) est e'gyccle ἀ
+
+λ = ,Q ᾖ 1 .
+En effet„
+Ήῖ) = ς4,-1)ί1(υ “ ὁ)
+:0
+et, si ι’.) = (ῃ -- <¹2 -ζ- εὖ —-- . . . converge„
+([(ί) = ἡΞ1-1ΥΜΓΗΑΓῙ .
+1120
+Nous cherchorons dans ee qui suit ἑῑ, &terminer cet ordre Ω de
+
+la fonction φα). Pour cela nous nous servirons du rapport entre Ω et
+l'ordre d’infinitude de W) exprime' par les thizoriffmes suivants.
+
+ 
+
+¹ Voir HADAMAm), Essai sm· l’e'tzcde (les fonctions donnees pat· lem· ‹lese-eloppement de
+Taylor, Journal (le Mathzstnatiqne& 4Ε Ξρῑίθ, t. Vlll (189Q);
+Dmxns, Lesons sm· les sinyularitds (les fonctions analytiques (Paris 1913).
+

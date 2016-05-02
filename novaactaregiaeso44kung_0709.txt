@@ -1,0 +1,48 @@
+REPResssNTATmN ANALYT. DE LA VITESSE DANs L’HYDRODYNAMIQUE. 7
+
+ditions. La grande importance de 66 probleme depend (16 16 profonde
+analogie 6111 existe entre le mouvement dont il s'occupe et celui qui
+se produit dans un liquide lorsqu'un corps s'y deplace avec une vitesse
+constante. J'ai montre anterieurement 6116 16 probleme a une solution
+lorsque les composantes de la force, que j'appellerai ρλΧ, ρλῩ, ρλΖ,
+remplissent eertaines conditions. (lette solution fournit pour u, v, w
+des expressions ou ¹200 entre d'une maniere extremement compliquee.
+Il s'agit de savoir comment ees fonctions peuvent etre representees.
+Pour repondre a cette question, il est necessaire de connaitre le ca-
+ractere analytique de n, c, w, consideres comme fonctions de λ et 110.
+Concernant ce dernier point, j’ai dementi-e 16 theoreme suivant.. Consi—
+derons dans 16 plan dela variable complexe, (ιο, 110 = 11011111ομ 611 do-
+maine D, situe tout entier a l'interieur du demi-plan ²l01>0- Les
+points de D doivent donc satisfaire a des conditions de la forme sui-
+vante:
+2ιοῖ 3
+
+Ο < ΜΘΗ, ξς 2601 , (1 Ξ u ἐξ ‘J η ¹ Nol < Πομ ·
+01
+
+ 
+
+Ᾰ 61166116 (1611161116 D ainsi clioisi repond un nombre positit' λῃ tel que
+u, v, w soient des¹ fonctions analytiques regulieres de λ et 1¹0 dans 16
+domaine obtenu en assujetissant λ a 16 condition {A} < λῙ, et 110 a celle
+d’appartenir ἐι D. De ceci il resulte qu'on trouvera une representation
+analytique ccnveiiable (16 ces fonctions en les developpant en series
+procedant suivant les puissances de λ et, de la quantite
+
+u'o — n„
+
+ 
+
+χ Ξ 1ιό -1-11.) “
+uso designant une vitesse arbitrairement choisie. Je montre comment
+on peut oalculer les coefficients (16 ces series,
+
+, En faisant unc hypothese speciale eoncernant les forces agis-
+sant sur le liquide, nous arrivons a l'exemple auquel il a deja ete fait
+allusion plus haut. je veux dire le cas osi une fonction analytique a
+une signification mec-auique determinee dans une partie de son (16-
+11161116 (1’6Χ161,61166, mais non pas dans tout 66 demaine„ et ou 16 re-
+ponse au probleme de mec-auique est sournie par une expression 6116-
+lytique qui represente des fonctions analytiques differentes dans des
+parties differentes du plan.
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso44kung_0273.png"; bbox 0 0 2254 3038; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 93 2931 296 2958">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 93 2931 296 2958">
+     <span class='ocr_line' id='line_1_1' title="bbox 93 2931 296 2958; baseline 0.01 -2"><span class='ocrx_word' id='word_1_1' title='bbox 93 2931 118 2956; x_wconf 85' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_2' title='bbox 136 2931 195 2956; x_wconf 72' lang='lat' dir='ltr'><strong>Juel</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 214 2931 296 2958; x_wconf 73' lang='lat' dir='ltr'><strong>defin.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 274 2135 2792">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 274 2135 2792">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 274 2135 2792; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 0 274 2135 2792; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 76 79 1296 146">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 54 79 1296 156">
+     <span class='ocr_line' id='line_1_3' title="bbox 76 79 1296 146; baseline -0.009 -5.195"><span class='ocrx_word' id='word_1_5' title='bbox 76 99 164 142; x_wconf 52' lang='lat' dir='ltr'>(lova</span> <span class='ocrx_word' id='word_1_6' title='bbox 186 79 271 138; x_wconf 72' lang='lat' dir='ltr'><strong>Acta</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 294 104 376 146; x_wconf 84' lang='lat' dir='ltr'>Reg.</span> <span class='ocrx_word' id='word_1_8' title='bbox 395 103 475 135; x_wconf 74' lang='lat' dir='ltr'>Soc.</span> <span class='ocrx_word' id='word_1_9' title='bbox 501 101 552 134; x_wconf 78' lang='lat' dir='ltr'>Sc..</span> <span class='ocrx_word' id='word_1_10' title='bbox 578 101 660 143; x_wconf 59' lang='lat' dir='ltr'>sps.</span> <span class='ocrx_word' id='word_1_11' title='bbox 687 100 755 132; x_wconf 73' lang='lat' dir='ltr'>Sor.</span> <span class='ocrx_word' id='word_1_12' title='bbox 782 100 839 132; x_wconf 81' lang='lat' dir='ltr'>IV.</span> <span class='ocrx_word' id='word_1_13' title='bbox 866 99 946 132; x_wconf 70' lang='lat' dir='ltr'>Vol,</span> <span class='ocrx_word' id='word_1_14' title='bbox 965 100 997 132; x_wconf 80' lang='lat'>4.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1024 99 1065 132; x_wconf 89' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1089 100 1116 131; x_wconf 84' lang='lat'>6.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1157 100 1186 131; x_wconf 92' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1212 98 1296 131; x_wconf 82' lang='lat' dir='ltr'>Juel.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1978 97 2120 130">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1978 97 2120 130">
+     <span class='ocr_line' id='line_1_4' title="bbox 1978 97 2120 130; baseline -0.014 0"><span class='ocrx_word' id='word_1_19' title='bbox 1978 98 2052 130; x_wconf 74' lang='lat' dir='ltr'>Taf.</span> <span class='ocrx_word' id='word_1_20' title='bbox 2078 97 2120 128; x_wconf 91' lang='lat' dir='ltr'>II.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

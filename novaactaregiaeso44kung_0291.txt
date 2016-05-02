@@ -1,0 +1,44 @@
+STUDIES IN STELLAR STATISTIFS. 111. 7
+
+The first column gives the square, defined as in Meddel. Ser. ll,
+N:o 8. The second column gives the number of the stare in thc »Preli-
+nnn-ary ffitalogue» 01 Boss. The third column gives 15:110. cos ὃ,
+1110 fourth 11:116ss both taken from the ssoss catalogue. The 111111
+0011111111 contains the radia] velocity (expresscd in Siriomcters per Stel-
+lar year) 01 1110 stass, regarding which Ι refer to GYLLENBERGS 1110-
+111011“ (Meddel. Ser. ΙΙ, Nzo 131. ΤΙ10 next column gives· the magnitude
+from Harvard Annals Vol. 50. The last¹ column gives the spectral
+subclass from the same publication.
+
+4. The computation of R is performed in the following way.
+
+Let U, V, W (1011010 1110 componente 01 1110 velocity of a star
+in a system 01 right. angular coordinates having its axis 01 Ζ (W)
+directed along the radius vector7 the axis 01 Χ 111 1110 direction 'of in—
+creasing a, the axis 01 Γ 111 1110 (lirection 01 increasing ὃ.
+
+Let further ΠΗ, V''‚ ΠΨ (1011010 the componente 01 1110 velocity
+01 1110 same star referred to the common astronomica] equator-system.
+Denoting the (lirection eosines by 5 we have
+
+U ΞῙ’1[ΠΗ“ζ 721 VH ” 32η llW .
+Q Vzmff½7fflwaffiww
+Ur ἶ yffi [sti βξ 7:³3 Vr! *⁷ 7:33le .
+
+where
+711 ἶ ἢ sin α ; 5¹2. τ cos (Ι. ; 52„ Ξ O
+9¹12 Ξ - sin ὃ cos a. 2 7222 = — sin ὃ sin a z 732 = cos¹ 11
+
+713 z cos d* cos α : 723 = cos (1 sin a. : 7³21: sin ‹)¹ ,
+
+11 u = Aa 000 δ, 11Ξ Ad* denote 1110 proper motions· 01 the star.
+we have
+
+U ἶ ΓΙ( . Γ 22 rs} .
+or, introducing the value (17) ol 1· and using 1110 abbreviations
+(4) Μ’ 2 10⁴'·¹'¹¹ 1( , 15' Ξ 10““-””1’ ,
+
+hence
+
+(ω Uzffist.V=Rffl.
+

@@ -1,0 +1,59 @@
+REPIOESENTATION ANALYT. DE LA VITESSE DANS L'HYDRODYNAMIQUE. 27
+
+Enfin, la partie restante de l'inte'gl·ale est plus petite que
+
+ 
+
+ 
+
+On peut traitel· les derivees (16 nos integrales de la 11161116 maniere.
+Le resultat qu'on obtient alors peut se resumer dans 16 theoreme sui-
+vant: il y a un nombre constant a„ positis 61 sans dimensions, tel
+que Fintegrale
+
+m
+s J (ugha'g -t- ‹ffv'g ss' 209'10'3) dm
+
+27132 τεο
+
+et les deux integrales qui lui sont analogues soient moindres en va-
+leur absolue que la quantite
+
+UssUag
+
+(1 ÷sssfiey²
+
+ 
+
+ 
+
+et qu‘en 11161116 temps les derivees de ees integrales par rapport ἐι
+L· y, ε· soient moindl'es en valeur absolue que Ia quantite
+
+ssHssss'scs
+U ss‘ss'fflffi‘ '
+
+Quant ἐὶ l'integrale
+
+l
+
+n
+
+7 jem l'X‘1'&‚ η, ’ς ηωξψ Υωυξψῖωωξίᾱω
+
+2 ,⁷135 ζ 1 1
+
+ 
+
+et les deux integrales qui lui sont analogues, les inegalites (5) et (7)
+montrent que dans l’intervalle 1]Ξίὲί’ elles sont plus petites en va-
+leur absolue que
+
+Γὼγ 3v'i‘
+
+‘⁹0ssssssss (ἡμή),
+
+ 
+
+ 
+

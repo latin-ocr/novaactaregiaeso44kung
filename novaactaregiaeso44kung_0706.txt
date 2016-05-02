@@ -1,0 +1,46 @@
+4 C. W. OSEEN„
+
+long-temps qu'il n'est pas etabli que ce 035 06 11601 pas se produire‚
+105 developpements de M. MITTAG-LEFFLER ne peuvent pas, quelque
+soient leur 10031116 61 leur importance, etre regardes comme fournissant
+la solution du probleme qui nous occupe. Les developpements en se-
+rie qu'on obtient par cette voie presentent encore un autre inconve-
+nient, dont l'importance n'est. pas moindre. On ne sait pas du tout
+s'ils representent des fonctions continues de t. On ne sait donc pas
+si reellement ils representent une solution du probleme propose dans
+tout leur domaine de convergence.
+
+Au 11611 (16 56 haser sur le fait que notre solution primitive est
+valable pour toute valeur positive de t, pourvu qu’on se place suffi-
+531111116111 pres de λ = O ‚ on peut partir de 13 11101111616 qu'elle est va-
+lable pour 101116 valeur de λ, 11001νο qu'on prenne t assez petit. Si
+l’on 50 donne dans le plan de la variable λ une region 111116, quelque
+grande qu'elle 5011, 11 y aura toujours 006 valeur positive tl de t telle
+que notre solution primitive 5011 113131116 (13115 13 region consideree pour
+tontes 165 valeurs de t satisfaisant 3 Ο Ξ t —L tl. Puis on peut prendre
+les valeurs (16 u, v, w qui repondent a t= t, comme point de depart‚
+et tacher de refaire 165 0310015 pour un intervalle 1513 ἐξ t2 ‚ etc. Alors
+56 11056 13 question suivante: quelles sont les proprietes de l'expression
+analytique qu'on obtient (16 cette maniere‘? Dans quelle region de
+l'espace (λι. λἩ t) cette expression nous donne-t-elle 13 solution de
+notre problemc?
+
+Pour commencer„ on voit aisement (106 165 expressions obtenues
+apres (1116 06 procede d'integration a ete n fois mis en execution, ont
+13 forme (16 series n fois infinies procedant suivant les puissances en-
+tieres et positives (16 λ, 165 10015 etant pris dans 13 signification que
+leur a (lonnee M. MITTAG-LEFFLER. Ces series peuvent etre transfor-
+mees en series (16 polynomes ordonnes suivant les puissances de λ.
+
+Je dirai qu'un point λ’, t' (λ’ = 2'1÷‹m'2) est regulier si pour 13
+11316111 λ’ (16 λ et pour les valeurs de t satisfaisant 3 ΟΞί-ξϋ 165
+(1031111165 u, v, 10 50111 (165 fonctions continues (16 x, y, z, t qui ad-
+mettent des derivees par rapport 3 a), y, z, et (1111 5311510111 a certai-
+nes inegalites que nous indiquerons plus loin d’une 10301616 complete,
+mais dont les plus importantes sont
+
+s ‚s - βῖ]
+nm„ 1171, ᾗῑυκῑψβῌνᾏα.
+
+ 
+

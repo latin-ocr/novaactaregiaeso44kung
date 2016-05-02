@@ -1,0 +1,43 @@
+STUDms IN STELLAR S'rATis'rws Ill. 15)
+
+8, Fama stem-s. Regarding the stars fainter than the 5⁰¹ magni-
+tude the knowledge of the radia! veloeities is sfill ver)v scanty. ln
+the catalogue of GYLLENBERG there are only 32 stara of the type B
+between the 5⁸¹¹ and the ΘΝ magnitude, with known radial veloeity„
+out of 214. l have exaniined the radia] voloeifies of these 32 stars and
+found a solar veloeity almost identieal to that found fron] the B-stars
+brighter than the ΒΨ magnitude, while on the other hand the coordi-
+nates of the Apex come out rather discordant. The oomponents of the
+
+mean veloeity of these 32 stars have the values
+
+ΠΗ = Ἡ Lm ,
+V'l Ξ ᾗ 3873 3
+W'' = — 121³ ,
+
+all expressed in Siriometers per stell-ar year.
+Hence we get
+
+Ω = 4.49s ,
+
+almost the same value (4.488) as from the brighter Stare„ whereas the
+values of the componente differ considerably fron] those given in (iol.
+Taking into consideration that the values of the eoniponents dedueed
+fron] the 32 faint stare have large lnean errors aniounting to about
+one Sirionieter per stellar year, there i& however, no reason to aeeept
+a systematis: inotion of the faint B-stars in relation to the bright ones,
+
+This being the ease we may dednee the valne of R even fron]
+the B-Stars fainter than 5¹¹=.0, with the help of their known proper
+motions. Treating then] in the Same manner as lhe brighter stars„ 1
+have obtained the following normal equ-atione.
+
+Fron] the proper motions in right ascension we get.
+
+1450220 U'' 9571» lm s ¹ l) :me H
+9.57o ΠΗ &Lino Vs] Ξ ’ Πρυτε I?
+where the faetore of R, in the right member& are expressed in se-
+
+eonds of are per year, and must be multiplied by {8481 to be expres—
+¹<ed in radians per stell-ar year.
+

@@ -1,0 +1,49 @@
+Swmms IN STELLAR STATISTIOS. ΙΙΙ. 9
+
+and let Dus„ where 71· and Z denote any one 01 the letters n, a, b. c,
+be the subdeterminant obtained from D 'through putting (kl) = 1 and
+giving 1ο all other elements in the same horizontal or vertieal line as
+Uel> the value zero, so that
+
+In similar manner subdelerminanis of the second 01¹ higher order
+
+may be indicated.
+We have then the solution of the normal equations in the form
+
+x ἔην ,ε’ 1
+
+Π) D,m Dm Dm —'DW·
+The mean errore ᾉ ε ss in (ι’, gs, ε· are obtained from the formulael
+
+ff &ia-J — ew> - ς’(ε) - D
+(ω HZJ]MM”Qffl-Nfflff
+
+ 
+
+where N is the number of observatione
+For the numerieal eomputation of the determinants [refer 10
+
+Meddel. N:0 66.
+As a ol1e0k2 1 have eompuied J), ‘l and s from (6) in the usual
+
+manner ἠ 'through successive elimination es the variables -- and eom-
+puted the mean errers with [he help of ihc f01·1nula³:
+
+(λλι = mn) j (nam a 4711111]ἶ 4111:st
+
+θεαί) ἕω) θεῖ’) l (λλ)
+(Ἣ Imwzstszwsffm'N'
+
+6. Lei us begin with the determination of UH. V''. ΠΨ from
+the radi-al velocities, h. e. fron] the equation
+
+Hv Ξ ΪΙῙι ΠΗ ’723 ΓΗ “ Vanum! -
+
+ 
+
+¹ These equations are first given by GLAismffz.
+² The method of determinants is somewhat laborious when a great number of solu-
+tions are to be computed. 1 have therefore later usually made use of the method of succes-
+sive elimination of the variables.
+Nova Aeta Reg. Soc. Sa Ups.. Ser. 4, Vel. 1, N. T. impr. ων, 191st 2
+

@@ -1,0 +1,44 @@
+REPRlffJSENTATION ANALYT. DE LA VITESSE DANS L’HYDRODYNAMIQUE. 9
+
+11 faut en outre, dans 16 635 3611161, tenir compte des conditions ini-
+113165 et conditions aux limites suivantes:
+
+110111· t= 0: u = mosa: „ 2] „ ,3) η v = λυο , w = two 3
+aux 11011115 5111165 3 distance infinie: u = υ = w = O .
+
+Dans nn 0161110116 10111016 »Sur 165 1010111165 (16 (11660 generali-
+5665 qui se presentent dans l'hydrodynalnique et 5111· quelques-unes de
+leurs applicat5011s»¹„ dont 13 1116011616 partie 3 113111 (13115 16 tome 34
+des Acta 01311160131163, j'ai 11100116 qne- 66 systeme peut 6116 1310606
+3 1111 systeme d'eqnations integro-(lifferentielleS. -Je ne veux 1135 161
+donner 665 6011311005 50115 16111· 1011116 13 111115 generale. Je veux (165
+1’31101(1 13116 165 hypotheses suivantes. -Je suppose (1116 165 1011611005
+Χ, Y, Z sont integ-rables et 5311510111 a des inegalites de 13 1011116
+
+Χ . X„ 1ΖκῙ1 Ἶι-ζῌνψς, (1καξ1). (1)
+F est ici une constante positiveq qni, 51 λ 651 regal-de comme 1111 11010-
+bre 53115 (110161151005, 31113 165 (1006051005 d’une 366616131100. β, comme
+11 3 (1613 ete (111. 3 165 (1111160510115 (16 1’111ν6156 d'nne longueur 61 53
+valeur numerique 651 1. - Les fonctions u, 11, w 561001 511111105665
+satisfaire 3 (165 1068311165 (16 13 101016
+
+ 
+
+” · < ‹sfflffia ν
+10 < α Ξ 1) (2)
+au* w ssU
+ὃ) 1 ····· ὂῖ < «11111111-
+
+Les dimensions de U sont evidennnent ici celles ‹l'une vitesse. La
+1116551011 p et 13 fonction (J qui en (lepend ne peuvent evidennnent 6116
+(161611010665 1131 notre systeme d'eqnations qu' 3 11116 constante addi-
+tive 11165. -Je veux 5011110561 (111’00 116111 fixer cette constante (16 16116
+10301616 (1116 165 inegalites
+
+¹pl,{(11<fi-—⁷1(0<s1{l) (3)
+
+² Dans ee qui suit, ce 1116010116 sera 6116 brievement sous 16 titre »Formules de
+Green».
+
+Nova Aeta Reg. Soc. Sc. Ups.‚ Ser 4, Vol. 4. Ν. 9. Impr. ¹⁰ 7 1917. 2
+
